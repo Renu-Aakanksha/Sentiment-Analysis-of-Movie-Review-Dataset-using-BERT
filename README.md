@@ -8,7 +8,7 @@ The framework uses a Convolutional Neural Network (CNN) architecture for Speech 
 
 ## Contributors
 
-- [@Renu Aakanksha Veesam](https://github.com/renu-aakanksha)
+- [Renu Aakanksha Veesam](https://github.com/renu-aakanksha)
 - [Preeti Singh](https://github.com/PreetiSingh)
 - [Sai Sarath Reddy Koppula](https://github.com/SaiSarathKoppula)
 
@@ -24,7 +24,7 @@ IMDB Dataset available in the Keras Module.
 
 ## Documentation
 
-For comprehensive information about the project, please refer to the [Documentation](https://github.com/Renu-Aakanksha/Sentiment-Analysis-of-Movie-review-Dataset-using-LSTM-CNN/blob/main/Team_18%20Research%20Paper.pdf).
+For comprehensive information about the project, please refer to the [Documentation](https://github.com/Renu-Aakanksha/Sentiment-Analysis-of-Movie-review-Dataset-using-BERT/blob/main/Team_18%20Research%20Paper.pdf).
 
 ## Lessons Learned
 
